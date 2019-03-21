@@ -69,6 +69,8 @@ figcaption {
   color: red;
 }
 
+/* layout */
+
 .wrapper {
   width:960px;
   margin:0 auto;
@@ -107,7 +109,12 @@ figcaption {
   height:0;
   line-height:0;
 }
-
+/* MEDIA */
 img, video, audio {
   max-width:100%;
+}
+
+section {
+  margin-bottom: 20px;
+  padding:20px;
 }
