@@ -68,3 +68,24 @@ figcaption {
 #details a:active {
   color: red;
 }
+
+.wrapper {
+  width:960px;
+  margin:0 auto;
+  background:#eee;
+}
+
+.col-1 {
+  float:left;
+  width:32%;
+}
+
+.col-2 {
+  float:left;
+  width:32%;
+}
+
+.col-3 {
+  float:left;
+  width:32%;
+}
